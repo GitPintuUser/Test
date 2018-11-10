@@ -5,4 +5,5 @@ public interface TestInterface {
 	public int m2();
 	public int m3();
 	public int m4();
+	public int m5();
 }
